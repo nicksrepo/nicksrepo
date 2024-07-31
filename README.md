@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm Nicolas Cloutier, a SENIOR EXECUTIVE TECHNOLOGY LEADER & CHIEF TECHNOLOGY OFFICER based in Levis, Quebec, Canada. With over 25 years of experience, I specialize in building and leading high-performing engineering teams, driving innovation in blockchain, and scaling technology startups for growth.
+I'm Nicolas Cloutier, a SENIOR EXECUTIVE TECHNOLOGY LEADER & CHIEF TECHNOLOGY OFFICER based in  Quebec, Canada. With over 25 years of experience, I specialize in building and leading high-performing engineering teams, driving innovation in blockchain, and scaling technology startups for growth.
 
 ## Professional Summary
 
