@@ -40,7 +40,6 @@ I'm Nicolas Cloutier, a SENIOR EXECUTIVE TECHNOLOGY LEADER & CHIEF TECHNOLOGY OF
 
 - Genovatix (2017 - Present): CTO, focusing on AI and blockchain for global safety and well-being
 - Sportpat (2018 - 2024): CTO & Lead Engineer, integrated advanced POS system with Magento 2
-- Dogecoin (2019 - 2021): Community leader, provided technical guidance and expertise
 - Kryptopy (2017 - 2018): CEO & Co-founder, launched blockchain-based social media and financial trading platform
 
 ## Awards & Recognition
@@ -51,13 +50,9 @@ I'm Nicolas Cloutier, a SENIOR EXECUTIVE TECHNOLOGY LEADER & CHIEF TECHNOLOGY OF
 ## Contact
 
 - Email: nicolas.cloutier78@gmail.com
-- Mobile: +1 418 720 4343
 - LinkedIn: [Nicolas Cloutier](https://linkedin.com/nicolascloutier1)
-- Location: Levis, Quebec, Canada
+- Location: Canada
 
-## Education
-
-BSc. Administration (management) - Alberta University
 
 ## Languages
 
